@@ -38,4 +38,3 @@ int main(void)
     return 0;
 }
 
-//World's end
